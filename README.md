@@ -28,8 +28,11 @@ Trying to create a more human-like color-based guided aim tool, with overshootin
 **Important notes**
 It looks like there were some updates made to some of the libraries I was using and so the mouse doesn't aim where intended to.
 If you'd like to use this code for your own projects you'd have to fix this.
-     **Demo video**
+     **Demo video before AI based verification and different color detection method:**
    https://youtu.be/p9eITEym5O0
+
+   **Demo video after AI based verification and updated color detection method:**
+   https://youtu.be/BSKWXozhH44
 
 
 
